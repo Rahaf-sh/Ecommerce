@@ -1,5 +1,5 @@
 Ecommerce
 
 Please follow the Instructions:
-php artisan migrate
+php artisan migrate<br/>
 php artisan db:seed
